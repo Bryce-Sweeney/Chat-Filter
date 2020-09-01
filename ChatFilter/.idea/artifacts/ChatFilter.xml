@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatFilter">
+    <output-path>$USER_HOME$/Desktop/Internal Testing Server/plugins</output-path>
+    <root id="archive" name="ChatFilter.jar">
+      <element id="module-output" name="ChatFilter" />
+    </root>
+  </artifact>
+</component>

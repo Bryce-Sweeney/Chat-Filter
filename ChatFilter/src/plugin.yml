@@ -1,0 +1,6 @@
+name: ChatFilter
+version: 0.5.0
+main: me.CodeConduit.ChatFilter.Main
+description: Stops players from spamming/offensive language
+author: CodeConduit
+
