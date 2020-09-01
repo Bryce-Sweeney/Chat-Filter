@@ -39,7 +39,6 @@ public class CapsDetector implements Listener {
             }
         }
         percentageUppercase = (capsCharacters/totalCharacters);
-        player.sendMessage(String.valueOf(percentageUppercase));
         if (percentageUppercase >= capsPercentageThreshold) {
             e.setMessage(message.toLowerCase());
             player.sendMessage(Utils.chat("&cPlease don't use so many caps!"));
